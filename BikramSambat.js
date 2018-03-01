@@ -82,7 +82,7 @@ function BikramSambat() {
 	}
 	this.language = "ne";
 	this.monthType = "word";
-	this.monthTextShort = true;
+	this.monthTextShort = false;
 	this.weekdayShort = false;
 	this.getYear = function() {
 		return year;
